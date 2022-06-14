@@ -1,2 +1,2 @@
-# First-Person-AI-Game
-First Person Shooter with some fun mechanics
+# First-Person-Project
+First Person short experiment game
